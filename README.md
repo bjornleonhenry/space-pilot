@@ -2,15 +2,15 @@
 
 # Modern Space Theme Portfolio using Next.js 14 and Three.js
 
-![Modern Space Theme Portfolio using Next.js 14 and Three.js](/.github/images/img_main.png "Modern Space Theme Portfolio using Next.js 14 and Three.js")
+![Modern Space Theme Portfolio Next.js 14 & Three.js](/.github/images/spacefolio.png "Modern Space Theme Portfolio Next.js 14 & Three.js")
 
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy "Ask Me Anything!")
-[![GitHub license](https://flat.badgen.net/github/license/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/blob/main/LICENSE "GitHub license")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/commits/main "Maintenance")
-[![GitHub branches](https://flat.badgen.net/github/branches/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/branches "GitHub branches")
-[![Github commits](https://flat.badgen.net/github/commits/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/commits "Github commits")
-[![GitHub issues](https://flat.badgen.net/github/issues/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/issues "GitHub issues")
-[![GitHub pull requests](https://flat.badgen.net/github/prs/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/pulls "GitHub pull requests")
+[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/bjornleonhenry "Ask Me Anything!")
+[![GitHub license](https://flat.badgen.net/github/license/bjornleonhenry/space-pilot?icon=github&color=black&scale=1.01)](https://github.com/bjornleonhenry/space-pilot/blob/main/LICENSE "GitHub license")
+[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/bjornleonhenry/space-pilot/commits/main "Maintenance")
+[![GitHub branches](https://flat.badgen.net/github/branches/bjornleonhenry/space-pilot?icon=github&color=black&scale=1.01)](https://github.com/bjornleonhenry/space-pilot/branches "GitHub branches")
+[![Github commits](https://flat.badgen.net/github/commits/bjornleonhenry/space-pilot?icon=github&color=black&scale=1.01)](https://github.com/bjornleonhenry/space-pilot/commits "Github commits")
+[![GitHub issues](https://flat.badgen.net/github/issues/bjornleonhenry/space-pilot?icon=github&color=black&scale=1.01)](https://github.com/bjornleonhenry/space-pilot/issues "GitHub issues")
+[![GitHub pull requests](https://flat.badgen.net/github/prs/bjornleonhenry/space-pilot?icon=github&color=black&scale=1.01)](https://github.com/bjornleonhenry/space-pilot/pulls "GitHub pull requests")
 [![Netlify Status](https://api.netlify.com/api/v1/badges/451ed0e0-3541-474e-896a-4987e30a7722/deploy-status)](https://spaceportfolio.netlify.app/ "Netlify Status")
 
 <!-- Table of Contents -->
@@ -103,13 +103,13 @@ space-portfolio/
 
 ## :camera: Screenshots:
 
-![Modern UI/UX](/.github/images/img1.png "Modern UI/UX")
+![Modern UI/UX](/public/images/spacefolio-1.png "Modern UI/UX")
 
-![Showcase your skills](/.github/images/img2.png "Showcase your skills")
+![Showcase your skills](/public/images/spacefolio-2.png "Showcase your skills")
 
-![Built with Typescript](/.github/images/img3.png "Built with Typescript")
+![Built with Typescript](/public/images/spacefolio-3.png "Built with Typescript")
 
-![Showcase your projects](/.github/images/img4.png "Showcase your projects")
+![Showcase your projects](/public/images/spacefolio-4.png "Showcase your projects")
 
 ## :gear: Tech Stack
 
@@ -151,13 +151,11 @@ Useful resources and dependencies that are used in Space Portfolio.
 
 ## :coffee: Buy Me a Coffee
 
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/sanidhy "Buy me a Coffee")
+[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/bjornleonhenry "Buy me a Coffee")
 
 ## :rocket: Follow Me
 
-[![GitHub followers](https://img.shields.io/github/followers/sanidhyy?style=social&label=Follow&maxAge=2592000)](https://github.com/sanidhyy "Follow Me")
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTechnicalShubam)](https://twitter.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2Fsanidhyy%2Fspace-portfolio "Tweet")
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCNAz_hUVBG2ZUN8TVm0bmYw)](https://www.youtube.com/@OPGAMER. "Subscribe my YouTube Channel")
+[![GitHub followers](https://img.shields.io/github/followers/bjornleonhenry?style=social&label=Follow&maxAge=2592000)](https://github.com/bjornleonhenry "Follow Me")
 
 ## :books: Learn More
 
@@ -180,11 +178,11 @@ You can also give this repository a star to show more people and they can use th
 
 ## :star2: Star History
 
-<a href="https://star-history.com/#sanidhyy/space-portfolio&Timeline">
+<a href="https://star-history.com/#bjornleonhenry/space-pilot&Timeline">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sanidhyy/space-portfolio&type=Timeline&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sanidhyy/space-portfolio&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sanidhyy/space-portfolio&type=Timeline" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=bjornleonhenry/space-pilot&type=Timeline&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=bjornleonhenry/space-pilot&type=Timeline" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=bjornleonhenry/space-pilot&type=Timeline" />
 </picture>
 </a>
 
