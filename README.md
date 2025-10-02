@@ -2,7 +2,7 @@
 
 # Modern Space Theme Portfolio using Next.js 14 and Three.js
 
-![Modern Space Theme Portfolio Next.js 14 & Three.js](/.github/images/spacefolio.png "Modern Space Theme Portfolio Next.js 14 & Three.js")
+![Modern Space Theme Portfolio Next.js 14 & Three.js](/public/images/spacefolio.png "Modern Space Theme Portfolio Next.js 14 & Three.js")
 
 [![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/bjornleonhenry "Ask Me Anything!")
 [![GitHub license](https://flat.badgen.net/github/license/bjornleonhenry/space-pilot?icon=github&color=black&scale=1.01)](https://github.com/bjornleonhenry/space-pilot/blob/main/LICENSE "GitHub license")
